@@ -3,7 +3,7 @@
 <img align="right" src="https://github.com/SankshipthShetty/SankshipthShetty/assets/99337968/2bd05422-3a3b-4d7c-94a1-7cdb584c09d7" alt="Profile Image" width="300"/>
 
 - 🌱 **Currently Studying at:** [GVPCE(A)](https://gvpce.ac.in/)<br>
-- 💬 Ask Me About: C++, SQL, Web Development, Designing, or anything.<br>
+- 💬 Ask Me About: C++, DSA, Web Development, Designing<br>
 - 📫 Reach Me At: [vk7032332758@gmail.com](mailto:vk7032332758@gmail.com)<br>
 - ⚡ About Me: **A Kuudere with a touch of intelligence.**<br>
 - 💎 Smart + Hard work + Quick Adaptation + Critical Thinking + Honesty<br>
@@ -20,13 +20,13 @@
 </div>
 
 <p align="center">
-  <a href="https://yourwebsite.com">
-    <img alt="Website" src="https://img.shields.io/badge/Website-YourWebsite-blue?style=flat-square&logo=google-chrome">
+  <a href="[porfolio](https://veerendra17788.github.io/my-portfolio/)">
+    <img alt="Portfolio" src="https://img.shields.io/badge/Website-YourWebsite-blue?style=flat-square&logo=google-chrome">
   </a>
   <a href="https://linkedin.com/in/yourprofile">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-YourName-blue?style=flat-square&logo=linkedin">
   </a>
-  <a href="mailto:youremail@example.com">
+  <a href="mailto:vk7032332758@gmail.com">
     <img alt="Email" src="https://img.shields.io/badge/Email-youremail@example.com-blue?style=flat-square&logo=gmail">
   </a>
 </p>
@@ -55,19 +55,19 @@
 
 <div align="center">
   <a href="https://github.com/veerendra17788/task-manager">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=veerendra17788&repo=task-manager&theme=tokyonight" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=veerendra17788&repo=TaskManager-V3&theme=tokyonight" />
   </a>
-  <a href="https://github.com/yourusername/courier-tracking">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=veerendra17788&repo=courier-tracking&theme=tokyonight" />
+  <a href="https://github.com/veerendra17788/courier-tracking">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=veerendra17788&repo=courior&theme=tokyonight" />
   </a>
 </div>
 <br>
 <div align="center">
-  <a href="https://github.com/yourusername/rice-journal">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=rice-journal&theme=tokyonight" />
+  <a href="https://github.com/veerendra17788/rice-journal">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=veerendra17788&repo=RealRiceProject&theme=tokyonight" />
   </a>
-  <a href="https://github.com/yourusername/dsa-experiments">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=dsa-experiments&theme=tokyonight" />
+  <a href="https://github.com/veerendra17788/dsa-experiments">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=veerendra17788&repo=R-Orange&theme=tokyonight" />
   </a>
 </div>
 
@@ -112,16 +112,16 @@
 
 ## 🔥 Streak Stats
 <div align="center">
-  <img src="https://streak-stats.herokuapp.com/?user=veerendra17788&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=veerendra17788&theme=tokyonight" alt="GitHub Streak" />
 </div>
 
 
-## 📚 Certifications
+<!--## 📚 Certifications
 
 - AWS Certified Solutions Architect
 - Google Cloud Professional Developer
 - Microsoft Certified: Azure Developer Associate
-- MongoDB Certified Developer
+- MongoDB Certified Developer -->
 <!--
 ## 💻 Coding Activity
 
@@ -133,24 +133,24 @@
 ## 📊 Weekly Development Breakdown
 
 <!--START_SECTION:waka-->
+<pre> 
 ```text
-DSA          5 hrs 35 mins  █████████████░░░░░░░░░░  49.63 % 
-JavaScript   4 hrs 13 mins  ███████████░░░░░░░░░░░░   36.57 % 
-React        4 hrs 45 mins   ████████░░░░░░░░░░░░░░   24.54 % 
-CSS          1 hr 20 mins    █░░░░░░░░░░░░░░░░░░░░░   6.47 % 
-HTML         12 mins         ░░░░░░░░░░░░░░░░░░░░░░   1.00 % 
-Other        4 mins          ░░░░░░░░░░░░░░░░░░░░░░   0.36 % 
-```
+DSA   ████████░░░░░░░░ 27.21%
+JS    ███████░░░░░░░░ 23.81%
+React ███████░░░░░░░░ 23.81%
+Node  ████████░░░░░░░ 25.17%
+Other ░░░░░░░░░░░░░░ 0.00% ``` 
+</pre>
 <!--END_SECTION:waka-->
 
 ---
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Visitor Count" />
   <br>
   <img src="https://img.shields.io/github/followers/yourusername?style=social" alt="Github Followers" />
   <img src="https://img.shields.io/github/stars/yourusername?style=social" alt="Github Stars" />
-</div>
+</div> -->
 
 ## GSSOC(24) Badges 🪶
 <div style='display:flex; align-items:center; gap: 10px;' align='center'>
