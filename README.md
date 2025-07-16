@@ -54,8 +54,8 @@
 ## 🚀 Featured Projects
 
 <div align="center">
-  <a href="https://github.com/veerendra17788/task-manager">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=veerendra17788&repo=TaskManager-V3&theme=tokyonight" />
+  <a href="https://github.com/veerendra17788/TaskManagerV4">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=veerendra17788&repo=TaskManagerV4&theme=tokyonight" />
   </a>
   <a href="https://github.com/veerendra17788/courier-tracking">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=veerendra17788&repo=courior&theme=tokyonight" />
@@ -74,10 +74,10 @@
 ## 📌 Project Highlights
 
 ### 🧠 Task Manager Tool
-- **Tech Stack:** JavaScript / MySQL / React
+- **Tech Stack:** JavaScript / Mongodb / React
 - Designed a Task Manager Tool that enables users to manage tasks based on team and their skills
 - Implemented REST APIs for dynamic data access
-- Integrated PostgreSQL for efficient backend management and querying
+- Integrated MongoDB for efficient backend management and querying
 
 ### 📦 Courier Tracking System
 - **Tech Stack:** HTML / CSS / JavaScript / Node.js
