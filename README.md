@@ -20,14 +20,14 @@
 </div>
 
 <p align="center">
-  <a href="[porfolio](https://veerendra17788.github.io/my-portfolio/)">
-    <img alt="Portfolio" src="https://img.shields.io/badge/Website-YourWebsite-blue?style=flat-square&logo=google-chrome">
+  <a href="https://veerendra17788.github.io/my-portfolio/">
+    <img alt="Portfolio" src="https://img.shields.io/badge/Website-veerendra-blue?style=flat-square&logo=google-chrome">
   </a>
-  <a href="https://linkedin.com/in/yourprofile">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-YourName-blue?style=flat-square&logo=linkedin">
+  <a href="https://www.linkedin.com/in/veerendra-kumar-kothuru">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-VeerendraKumar-blue?style=flat-square&logo=linkedin">
   </a>
   <a href="mailto:vk7032332758@gmail.com">
-    <img alt="Email" src="https://img.shields.io/badge/Email-youremail@example.com-blue?style=flat-square&logo=gmail">
+    <img alt="Email" src="https://img.shields.io/badge/Email-vk7032332758@gmail.com-blue?style=flat-square&logo=gmail">
   </a>
 </p>
 
